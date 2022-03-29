@@ -1,1 +1,1 @@
-# psychic-winner
+# IBM Data Science Capstone Project
